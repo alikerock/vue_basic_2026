@@ -10,7 +10,7 @@ const rawHTML = '<a href="">링크</a>';
 </script>
 
 <template>
-  <h2>템플릿 문법 수정2</h2>
+  <h2>템플릿 문법 수정3</h2>
   <h3>보간법</h3>
   <p>{{ msg }} {{ msg2 }}</p>
   <h4>HTML 출력</h4>
